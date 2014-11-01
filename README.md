@@ -46,12 +46,12 @@ In this piece of code, A* was utilized to find the path. The h(n) is calculated 
                                                                              
 For the path finding with @(checkpoint), a dummy method was used, which just try all the possible paths with different sequence of checkpoints, this is the most cost part of this program. There should be a much more clever method to deal with this.                                             
                                                                              
-**Dynamic programming is probably a ideal method to deal with this.  **
+Dynamic programming is probably a ideal method to deal with this.
  
                                                                              
 Besides about the solution, any suggestion on the code is also very welcome. 
 
                                                                              
-**Run: ** ./a.out < example1.txt                                                  
+Run: ./a.out < example1.txt                                                  
                                                                                                                                              
                                                                               
